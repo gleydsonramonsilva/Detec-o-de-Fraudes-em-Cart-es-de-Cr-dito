@@ -1,4 +1,4 @@
-"""# Detecção de Fraudes em Cartões de Crédito
+# Detecção de Fraudes em Cartões de Crédito
 
 Este projeto visa criar um modelo de Machine Learning capaz de identificar transações fraudulentas de cartões de crédito utilizando dados históricos.
 
