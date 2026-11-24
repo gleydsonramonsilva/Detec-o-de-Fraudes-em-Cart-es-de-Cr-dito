@@ -1,6 +1,6 @@
 # Detecção de Fraudes em Cartões de Crédito
 
-Este projeto visa criar um modelo de Machine Learning capaz de identificar transações fraudulentas de cartões de crédito utilizando dados históricos.
+Este projeto visa criar um modelo de Machine Learning capaz de identificar transações fraudulentas de cartões de crédito utilizando dados dos históricos.
 
 ## 1. O Problema e o Desbalanceamento de Classes
 O conjunto de dados apresenta um desbalanceamento extremo de classes, onde apenas **0,17%** das transações são fraudes. Em cenários assim, a métrica de **Acurácia padrão é enganosa**: um modelo ingênuo que classifique tudo como normal obteria 99,83% de acurácia, mas falharia completamente no objetivo de detectar fraudes. 
